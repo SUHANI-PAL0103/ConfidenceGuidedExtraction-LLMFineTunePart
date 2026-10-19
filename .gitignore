@@ -1,0 +1,9 @@
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.zip
+checkpoint-*/
+funsd_original/
+__pycache__/
+.ipynb_checkpoints/

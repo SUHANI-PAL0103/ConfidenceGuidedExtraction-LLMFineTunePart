@@ -1,0 +1,1324 @@
+{
+  "original_funsd_count": 199,
+  "existing_test_ids": [
+    "0001485288",
+    "0011505151",
+    "0011974919",
+    "0060036622",
+    "0071032807",
+    "12052385",
+    "13149651",
+    "71206427",
+    "81310636",
+    "91856041_6049",
+    "91914407",
+    "92039708_9710",
+    "92314414",
+    "93213298"
+  ],
+  "training_exposure_flagged": [
+    {
+      "id": "0000971160",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 6,
+      "flagged": true
+    },
+    {
+      "id": "0000989556",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 10,
+      "flagged": true
+    },
+    {
+      "id": "0000990274",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 4,
+      "flagged": true
+    },
+    {
+      "id": "0000999294",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 6,
+      "flagged": true
+    },
+    {
+      "id": "0001118259",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 5,
+      "flagged": true
+    },
+    {
+      "id": "0001123541",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 5,
+      "flagged": true
+    },
+    {
+      "id": "0001129658",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 2,
+      "flagged": true
+    },
+    {
+      "id": "0001209043",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 3,
+      "flagged": true
+    },
+    {
+      "id": "0001239897",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 1,
+      "flagged": true
+    },
+    {
+      "id": "0001438955",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 4,
+      "flagged": true
+    },
+    {
+      "id": "0001456787",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 12,
+      "flagged": true
+    },
+    {
+      "id": "0001463282",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 5,
+      "flagged": true
+    },
+    {
+      "id": "0001463448",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 8,
+      "flagged": true
+    },
+    {
+      "id": "0001476912",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 2,
+      "flagged": true
+    },
+    {
+      "id": "0001477983",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 10,
+      "flagged": true
+    },
+    {
+      "id": "00040534",
+      "split": "training_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 10,
+      "flagged": true
+    },
+    {
+      "id": "00070353",
+      "split": "training_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 4,
+      "flagged": true
+    },
+    {
+      "id": "00093726",
+      "split": "training_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 4,
+      "flagged": true
+    },
+    {
+      "id": "0011838621",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 6,
+      "flagged": true
+    },
+    {
+      "id": "0011845203",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 12,
+      "flagged": true
+    },
+    {
+      "id": "0011856542",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 4,
+      "flagged": true
+    },
+    {
+      "id": "0011859695",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 5,
+      "flagged": true
+    },
+    {
+      "id": "0011899960",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 6,
+      "flagged": true
+    },
+    {
+      "id": "0011906503",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 8,
+      "flagged": true
+    },
+    {
+      "id": "0011973451",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 9,
+      "flagged": true
+    },
+    {
+      "id": "0011976929",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 8,
+      "flagged": true
+    },
+    {
+      "id": "0012178355",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 11,
+      "flagged": true
+    },
+    {
+      "id": "0012199830",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 5,
+      "flagged": true
+    },
+    {
+      "id": "0012529284",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 10,
+      "flagged": true
+    },
+    {
+      "id": "0012529295",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 7,
+      "flagged": true
+    },
+    {
+      "id": "0012602424",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 5,
+      "flagged": true
+    },
+    {
+      "id": "0012947358",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 2,
+      "flagged": true
+    },
+    {
+      "id": "0013255595",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 2,
+      "flagged": true
+    },
+    {
+      "id": "00283813",
+      "split": "training_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 6,
+      "flagged": true
+    },
+    {
+      "id": "0030031163",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 10,
+      "flagged": true
+    },
+    {
+      "id": "0030041455",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 4,
+      "flagged": true
+    },
+    {
+      "id": "0060000813",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 4,
+      "flagged": true
+    },
+    {
+      "id": "0060007216",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 4,
+      "flagged": true
+    },
+    {
+      "id": "0060024314",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 10,
+      "flagged": true
+    },
+    {
+      "id": "0060029036",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 3,
+      "flagged": true
+    },
+    {
+      "id": "0060068489",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 6,
+      "flagged": true
+    },
+    {
+      "id": "0060077689",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 4,
+      "flagged": true
+    },
+    {
+      "id": "0060080406",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 6,
+      "flagged": true
+    },
+    {
+      "id": "0060091229",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 6,
+      "flagged": true
+    },
+    {
+      "id": "0060094595",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 5,
+      "flagged": true
+    },
+    {
+      "id": "0060136394",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 4,
+      "flagged": true
+    },
+    {
+      "id": "0060165115",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 4,
+      "flagged": true
+    },
+    {
+      "id": "0060173256",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 1,
+      "flagged": true
+    },
+    {
+      "id": "0060207528",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 9,
+      "flagged": true
+    },
+    {
+      "id": "0060214859",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 1,
+      "flagged": true
+    },
+    {
+      "id": "0060255888",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 5,
+      "flagged": true
+    },
+    {
+      "id": "0060262650",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 9,
+      "flagged": true
+    },
+    {
+      "id": "0060270727",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 4,
+      "flagged": true
+    },
+    {
+      "id": "0060302201",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 6,
+      "flagged": true
+    },
+    {
+      "id": "0060308251",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 2,
+      "flagged": true
+    },
+    {
+      "id": "0060308461",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 7,
+      "flagged": true
+    },
+    {
+      "id": "0071032790",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 2,
+      "flagged": true
+    },
+    {
+      "id": "00836244",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 7,
+      "flagged": true
+    },
+    {
+      "id": "00836816",
+      "split": "training_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 5,
+      "flagged": true
+    },
+    {
+      "id": "00837285",
+      "split": "training_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 9,
+      "flagged": true
+    },
+    {
+      "id": "00838511_00838525",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 6,
+      "flagged": true
+    },
+    {
+      "id": "00851772_1780",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 6,
+      "flagged": true
+    },
+    {
+      "id": "00851879",
+      "split": "training_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 9,
+      "flagged": true
+    },
+    {
+      "id": "00860012_00860014",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 6,
+      "flagged": true
+    },
+    {
+      "id": "00865872",
+      "split": "training_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 6,
+      "flagged": true
+    },
+    {
+      "id": "00866042",
+      "split": "training_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 6,
+      "flagged": true
+    },
+    {
+      "id": "00920222",
+      "split": "training_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 6,
+      "flagged": true
+    },
+    {
+      "id": "00920294",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 4,
+      "flagged": true
+    },
+    {
+      "id": "00922237",
+      "split": "training_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 4,
+      "flagged": true
+    },
+    {
+      "id": "01073843",
+      "split": "training_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 7,
+      "flagged": true
+    },
+    {
+      "id": "01122115",
+      "split": "training_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 10,
+      "flagged": true
+    },
+    {
+      "id": "01150773_01150774",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 3,
+      "flagged": true
+    },
+    {
+      "id": "01191071_1072",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 4,
+      "flagged": true
+    },
+    {
+      "id": "01197604",
+      "split": "training_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 2,
+      "flagged": true
+    },
+    {
+      "id": "01408099_01408101",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 6,
+      "flagged": true
+    },
+    {
+      "id": "11508234",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 4,
+      "flagged": true
+    },
+    {
+      "id": "11875011",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 9,
+      "flagged": true
+    },
+    {
+      "id": "12603270",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 6,
+      "flagged": true
+    },
+    {
+      "id": "12825369",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 8,
+      "flagged": true
+    },
+    {
+      "id": "660978",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 2,
+      "flagged": true
+    },
+    {
+      "id": "71108371",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 9,
+      "flagged": true
+    },
+    {
+      "id": "71190280",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 2,
+      "flagged": true
+    },
+    {
+      "id": "71202511",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 9,
+      "flagged": true
+    },
+    {
+      "id": "71341634",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 2,
+      "flagged": true
+    },
+    {
+      "id": "71366499",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 1,
+      "flagged": true
+    },
+    {
+      "id": "71563825",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 7,
+      "flagged": true
+    },
+    {
+      "id": "71601299",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 11,
+      "flagged": true
+    },
+    {
+      "id": "716552",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 2,
+      "flagged": true
+    },
+    {
+      "id": "80310840a",
+      "split": "training_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 5,
+      "flagged": true
+    },
+    {
+      "id": "80707440_7443",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 6,
+      "flagged": true
+    },
+    {
+      "id": "80718412_8413",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 7,
+      "flagged": true
+    },
+    {
+      "id": "80728670",
+      "split": "training_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 11,
+      "flagged": true
+    },
+    {
+      "id": "81186212",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 1,
+      "flagged": true
+    },
+    {
+      "id": "81574683",
+      "split": "training_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 7,
+      "flagged": true
+    },
+    {
+      "id": "81619486_9488",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 3,
+      "flagged": true
+    },
+    {
+      "id": "81619511_9513",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 3,
+      "flagged": true
+    },
+    {
+      "id": "81749056_9057",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 6,
+      "flagged": true
+    },
+    {
+      "id": "82254638",
+      "split": "training_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 9,
+      "flagged": true
+    },
+    {
+      "id": "87533049",
+      "split": "training_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 6,
+      "flagged": true
+    },
+    {
+      "id": "87672097",
+      "split": "training_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 10,
+      "flagged": true
+    },
+    {
+      "id": "87682908",
+      "split": "training_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 6,
+      "flagged": true
+    },
+    {
+      "id": "88057519",
+      "split": "training_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 1,
+      "flagged": true
+    },
+    {
+      "id": "88547278_88547279",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 8,
+      "flagged": true
+    },
+    {
+      "id": "89368010",
+      "split": "training_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 10,
+      "flagged": true
+    },
+    {
+      "id": "89386032",
+      "split": "training_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 4,
+      "flagged": true
+    },
+    {
+      "id": "89817999_8002",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 6,
+      "flagged": true
+    },
+    {
+      "id": "89867723",
+      "split": "training_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 9,
+      "flagged": true
+    },
+    {
+      "id": "91104867",
+      "split": "training_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 3,
+      "flagged": true
+    },
+    {
+      "id": "91161344_91161347",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 5,
+      "flagged": true
+    },
+    {
+      "id": "91315069_91315070",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 4,
+      "flagged": true
+    },
+    {
+      "id": "91355841",
+      "split": "training_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 2,
+      "flagged": true
+    },
+    {
+      "id": "91356315",
+      "split": "training_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 6,
+      "flagged": true
+    },
+    {
+      "id": "91361993",
+      "split": "training_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 4,
+      "flagged": true
+    },
+    {
+      "id": "91372360",
+      "split": "training_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 6,
+      "flagged": true
+    },
+    {
+      "id": "91391286",
+      "split": "training_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 6,
+      "flagged": true
+    },
+    {
+      "id": "91391310",
+      "split": "training_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 7,
+      "flagged": true
+    },
+    {
+      "id": "91581919",
+      "split": "training_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 10,
+      "flagged": true
+    },
+    {
+      "id": "91903177",
+      "split": "training_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 4,
+      "flagged": true
+    },
+    {
+      "id": "91939637",
+      "split": "training_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 7,
+      "flagged": true
+    },
+    {
+      "id": "91974562",
+      "split": "training_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 7,
+      "flagged": true
+    },
+    {
+      "id": "92081358_1359",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 10,
+      "flagged": true
+    },
+    {
+      "id": "92091873",
+      "split": "training_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 10,
+      "flagged": true
+    },
+    {
+      "id": "92094746",
+      "split": "training_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 12,
+      "flagged": true
+    },
+    {
+      "id": "92094751",
+      "split": "training_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 8,
+      "flagged": true
+    },
+    {
+      "id": "92298125",
+      "split": "training_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 5,
+      "flagged": true
+    },
+    {
+      "id": "92327794",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 5,
+      "flagged": true
+    },
+    {
+      "id": "92433599_92433601",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 9,
+      "flagged": true
+    },
+    {
+      "id": "92586242",
+      "split": "training_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 6,
+      "flagged": true
+    },
+    {
+      "id": "92657311_7313",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 7,
+      "flagged": true
+    },
+    {
+      "id": "92657391",
+      "split": "training_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 7,
+      "flagged": true
+    },
+    {
+      "id": "93329540",
+      "split": "training_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 5,
+      "flagged": true
+    },
+    {
+      "id": "93351929_93351931",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 10,
+      "flagged": true
+    },
+    {
+      "id": "93380187",
+      "split": "training_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 8,
+      "flagged": true
+    },
+    {
+      "id": "93455715",
+      "split": "training_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 7,
+      "flagged": true
+    },
+    {
+      "id": "82092117",
+      "split": "testing_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 6,
+      "flagged": true
+    },
+    {
+      "id": "82200067_0069",
+      "split": "testing_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 2,
+      "flagged": true
+    },
+    {
+      "id": "82250337_0338",
+      "split": "testing_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 5,
+      "flagged": true
+    },
+    {
+      "id": "82252956_2958",
+      "split": "testing_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 2,
+      "flagged": true
+    },
+    {
+      "id": "82253058_3059",
+      "split": "testing_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 7,
+      "flagged": true
+    },
+    {
+      "id": "82253245_3247",
+      "split": "testing_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 7,
+      "flagged": true
+    },
+    {
+      "id": "82253362_3364",
+      "split": "testing_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 4,
+      "flagged": true
+    },
+    {
+      "id": "82254765",
+      "split": "testing_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 6,
+      "flagged": true
+    },
+    {
+      "id": "82491256",
+      "split": "testing_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 3,
+      "flagged": true
+    },
+    {
+      "id": "82504862",
+      "split": "testing_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 1,
+      "flagged": true
+    },
+    {
+      "id": "82562350",
+      "split": "testing_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 1,
+      "flagged": true
+    },
+    {
+      "id": "82573104",
+      "split": "testing_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 2,
+      "flagged": true
+    },
+    {
+      "id": "82837252",
+      "split": "testing_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 6,
+      "flagged": true
+    },
+    {
+      "id": "83443897",
+      "split": "testing_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 5,
+      "flagged": true
+    },
+    {
+      "id": "83553333_3334",
+      "split": "testing_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 3,
+      "flagged": true
+    },
+    {
+      "id": "83573282",
+      "split": "testing_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 3,
+      "flagged": true
+    },
+    {
+      "id": "83594639",
+      "split": "testing_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 3,
+      "flagged": true
+    },
+    {
+      "id": "83624198",
+      "split": "testing_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 2,
+      "flagged": true
+    },
+    {
+      "id": "83635935",
+      "split": "testing_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 2,
+      "flagged": true
+    },
+    {
+      "id": "83641919_1921",
+      "split": "testing_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 3,
+      "flagged": true
+    },
+    {
+      "id": "83772145",
+      "split": "testing_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 2,
+      "flagged": true
+    },
+    {
+      "id": "83823750",
+      "split": "testing_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 4,
+      "flagged": true
+    },
+    {
+      "id": "83996357",
+      "split": "testing_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 6,
+      "flagged": true
+    },
+    {
+      "id": "85201976",
+      "split": "testing_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 1,
+      "flagged": true
+    },
+    {
+      "id": "85240939",
+      "split": "testing_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 4,
+      "flagged": true
+    },
+    {
+      "id": "85629964",
+      "split": "testing_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 2,
+      "flagged": true
+    },
+    {
+      "id": "86075409_5410",
+      "split": "testing_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 7,
+      "flagged": true
+    },
+    {
+      "id": "86079776_9777",
+      "split": "testing_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 7,
+      "flagged": true
+    },
+    {
+      "id": "86220490",
+      "split": "testing_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 4,
+      "flagged": true
+    },
+    {
+      "id": "86230203_0206",
+      "split": "testing_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 2,
+      "flagged": true
+    },
+    {
+      "id": "86236474_6476",
+      "split": "testing_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 12,
+      "flagged": true
+    },
+    {
+      "id": "86244113",
+      "split": "testing_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 6,
+      "flagged": true
+    },
+    {
+      "id": "86263525",
+      "split": "testing_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 6,
+      "flagged": true
+    },
+    {
+      "id": "86328049_8050",
+      "split": "testing_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 5,
+      "flagged": true
+    },
+    {
+      "id": "87086073",
+      "split": "testing_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 3,
+      "flagged": true
+    },
+    {
+      "id": "87093315_87093318",
+      "split": "testing_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 5,
+      "flagged": true
+    },
+    {
+      "id": "87125460",
+      "split": "testing_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 4,
+      "flagged": true
+    },
+    {
+      "id": "87137840",
+      "split": "testing_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 2,
+      "flagged": true
+    },
+    {
+      "id": "87147607",
+      "split": "testing_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 6,
+      "flagged": true
+    },
+    {
+      "id": "87332450",
+      "split": "testing_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 8,
+      "flagged": true
+    },
+    {
+      "id": "87428306",
+      "split": "testing_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 5,
+      "flagged": true
+    },
+    {
+      "id": "87528321",
+      "split": "testing_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 7,
+      "flagged": true
+    },
+    {
+      "id": "87528380",
+      "split": "testing_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 3,
+      "flagged": true
+    },
+    {
+      "id": "87594142_87594144",
+      "split": "testing_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 1,
+      "flagged": true
+    },
+    {
+      "id": "89856243",
+      "split": "testing_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 3,
+      "flagged": true
+    },
+    {
+      "id": "91814768_91814769",
+      "split": "testing_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 2,
+      "flagged": true
+    },
+    {
+      "id": "92380595",
+      "split": "testing_data",
+      "id_found_in_training": true,
+      "training_phrase_matches": 6,
+      "flagged": true
+    },
+    {
+      "id": "93106788",
+      "split": "testing_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 2,
+      "flagged": true
+    }
+  ],
+  "unflagged_candidates": [
+    {
+      "id": "0060025670",
+      "split": "training_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 0,
+      "flagged": false
+    },
+    {
+      "id": "82251504",
+      "split": "testing_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 0,
+      "flagged": false
+    },
+    {
+      "id": "85540866",
+      "split": "testing_data",
+      "id_found_in_training": false,
+      "training_phrase_matches": 0,
+      "flagged": false
+    }
+  ],
+  "conclusion": "Unflagged candidates are not verified unseen documents. The original FUNSD collection is unsuitable as a new independent evaluation benchmark without further auditing.",
+  "development_result": {
+    "baseline_correct": 85,
+    "v3_correct": 91,
+    "total_fields": 137
+  }
+}
